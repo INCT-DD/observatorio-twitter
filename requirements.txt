@@ -1,0 +1,5 @@
+bson
+twint
+pymongo
+tqdm
+tweepy
